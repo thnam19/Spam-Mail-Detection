@@ -23,4 +23,6 @@ Precision:   0.815068493150685
 Recall:      0.9754098360655737
 
 f1-measure:  0.8880597014925373
-  
+
+Algorithm reference: https://www.youtube.com/watch?v=O2L2Uv9pdDA
+
